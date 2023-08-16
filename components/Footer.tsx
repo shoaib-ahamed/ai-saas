@@ -2,7 +2,7 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#151030] text-white py-8">
+    <footer className="bg-[#111827] text-white py-8">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between">
         <div className="flex items-center mb-4 md:mb-0">
           <span className="text-xl font-semibold">Connect with me:</span>
